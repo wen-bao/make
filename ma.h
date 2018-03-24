@@ -1,0 +1,1 @@
+int ma(int a, int b);
